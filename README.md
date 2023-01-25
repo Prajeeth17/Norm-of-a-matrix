@@ -16,6 +16,7 @@ Print the norm of the matrix in two decimal places.
 ```Python
 # Register No: 22002267
 # Developed By: Prajeeth K T
+
 # 1-Norm of a Matrix
 
 import numpy as np
